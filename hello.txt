@@ -19,5 +19,5 @@ hello git test
 hello git test
 hello git test
 hello git test
-hello git test
+hello git test master test
 hello git test
